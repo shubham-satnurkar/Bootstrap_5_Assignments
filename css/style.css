@@ -1,0 +1,17 @@
+body{padding-top: 100px;}
+
+.portfolio{padding: 100px 0 100px;}
+.portfolio .card:hover{
+	background: linear-gradient(rgba(19, 15, 14), rgba(15, 55, 182));
+	color: #fff;
+}
+
+
+.about-us{
+	padding: 100px 0;
+	background-color: #18bb9c;
+}
+
+.contact-us{
+	padding: 100px 0 50px;
+}
